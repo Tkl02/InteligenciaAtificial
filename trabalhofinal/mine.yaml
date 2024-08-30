@@ -1,0 +1,22 @@
+path: C:\Users\leona\OneDrive\Documents\GitHub\Inteligencia_Artificial\trabalhofinal\datasets\  # dataset root dir
+train: C:\Users\leona\OneDrive\Documents\GitHub\Inteligencia_Artificial\trabalhofinal\datasets\mine\train  # train images (relative to 'path') 128 images
+val: C:\Users\leona\OneDrive\Documents\GitHub\Inteligencia_Artificial\trabalhofinal\datasets\mine\val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: chicken
+  1: cow
+  2: creeper
+  3: enderman
+  4: horse
+  5: pig
+  6: sheep
+  7: skeleton
+  8: slime
+  9: squid
+  10: villager
+  11: witch
+  12: wolf
+  13: zombie
+  14: spider
