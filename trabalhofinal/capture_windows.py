@@ -12,7 +12,7 @@ wincap = WindowCapture(size=(910, 620), origin=(offset_x, offset_y))
 #wincap = WindowCapture("Minecraft 1.7.10")
 
 #model = YOLO("yolov8s.pt")
-model = YOLO(r"C:\Users\leona\OneDrive\Documents\GitHub\Inteligencia_Artificial\runs\detect\train\weights\best.pt")
+model = YOLO(r"C:\Users\leona\Documents\GitHub\InteligenciaAtificial\trabalhofinal\best.pt")
 
 track_history = defaultdict(lambda: [])
 seguir = True
